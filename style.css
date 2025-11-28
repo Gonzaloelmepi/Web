@@ -44,12 +44,13 @@ div.centre {
     min-height: 100dvh;
     grid-template-rows: auto 1fr auto;
 }
-header{
+header.head{
+    text-decoration: #04AA6D;
     background: red;
 }
-main{
+main.centro{
     background: #04AA6D;
 }
-footer{
+footer.pie{
     background: aqua;
 }

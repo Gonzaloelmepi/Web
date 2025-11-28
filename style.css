@@ -39,5 +39,8 @@ div.centre {
     height: 680px;
     background: rgba(255, 255, 255, 0.85);
     border-radius: 40px;
-    width: 50%
+    width: 50%;
+    display: grid;
+    min-height: 100dvh;
+    grid-template-rows: auto 1fr auto;
 }

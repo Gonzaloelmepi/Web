@@ -37,20 +37,22 @@ div.centre {
     margin-top: 10px;
     padding: 15px;
     height: 680px;
-    background: rgba(255, 255, 255, 0.85);
     border-radius: 40px;
-    width: 50%;
     display: grid;
     min-height: 100dvh;
-    grid-template-rows: auto 1fr auto;
+    grid-template-rows: 
+    auto 1fr auto;
 }
 header.head{
     text-decoration: #04AA6D;
     background: red;
+    background-color: red;
 }
 main.centro{
     background: #04AA6D;
+    background-color: #04AA6D;
 }
 footer.pie{
     background: aqua;
+    background-color: aqua;
 }

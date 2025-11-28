@@ -44,3 +44,12 @@ div.centre {
     min-height: 100dvh;
     grid-template-rows: auto 1fr auto;
 }
+header{
+    background-color: red;
+}
+main{
+    background-color: #04AA6D;
+}
+footer{
+    background-color: aqua;
+}

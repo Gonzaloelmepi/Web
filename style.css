@@ -45,11 +45,11 @@ div.centre {
     grid-template-rows: auto 1fr auto;
 }
 header{
-    background-color: red;
+    background: red;
 }
 main{
-    background-color: #04AA6D;
+    background: #04AA6D;
 }
 footer{
-    background-color: aqua;
+    background: aqua;
 }

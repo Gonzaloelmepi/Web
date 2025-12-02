@@ -238,6 +238,6 @@ nav {
     font-weight: 300;
     font-size: 1.2rem;
     margin-bottom: 50px;
-    color: #fff;
-    
+    color: var(--color-items);
+
 }
